@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=E5533D&center=true&vCenter=true&width=760&lines=Ol%C3%A1%2C+eu+sou+Erick+%F0%9F%91%8B;T%C3%A9cnico+em+TI+N%C3%ADvel+2;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o" alt="Animação de digitação: apresentação do Erick" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=E5533D&center=true&vCenter=true&width=760&lines=Ol%C3%A1%2C+eu+sou+Erick+%F0%9F%91%8B;T%C3%A9cnico+em+TI+N%C3%ADvel+2;Desenvolvimento+de+Sites;Infraestrutura+de+TI;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o" alt="Animação de digitação: apresentação do Erick" />
 
   <p>
     <a href="https://github.com/kingErick12"><img src="https://img.shields.io/badge/GitHub-kingErick12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -19,14 +19,16 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Técnico em TI Nível 2** e estudante de **Engenharia da Computação na UNIALFA**, atualmente no **5º período**. Combino minha experiência profissional em tecnologia da informação com estudos acadêmicos e projetos práticos para continuar evoluindo na área.
+Sou **Técnico em TI Nível 2** e estudante de **Engenharia da Computação na UNIALFA**, atualmente no **5º período**. Atuo com **infraestrutura de TI** e também trabalho com **desenvolvimento de sites**, unindo suporte técnico, manutenção de ambientes de tecnologia e criação de soluções web. Combino essa experiência com os estudos acadêmicos e projetos práticos para continuar evoluindo na área.
 
 Gosto de entender como as coisas funcionam, resolver problemas com raciocínio lógico e transformar ideias em soluções úteis. Tenho interesse em aprofundar meus conhecimentos em **desenvolvimento de software, automação e cibersegurança**.
 
 - 💼 **Atuação profissional:** Técnico em TI — Nível 2.
+- 🌐 **Desenvolvimento web:** criação e aprimoramento de sites.
+- 🖥️ **Infraestrutura de TI:** suporte técnico e infraestrutura de tecnologia.
 - 🎓 **Formação:** Engenharia da Computação — UNIALFA, 5º período.
 - 🛠️ **Prática:** projetos web e sistemas para negócios.
-- 🧠 **Interesses:** suporte e infraestrutura de TI, desenvolvimento de software, automação e cibersegurança.
+- 🧠 **Interesses:** desenvolvimento de software, automação e cibersegurança.
 - 🎯 **Objetivo:** ampliar minhas competências técnicas e construir soluções tecnológicas confiáveis.
 
 ## 🧩 Projetos em destaque
@@ -53,7 +55,7 @@ Gosto de entender como as coisas funcionam, resolver problemas com raciocínio l
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode&theme=dark" alt="Ícones de HTML, CSS, JavaScript, C, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode,windows,linux&theme=dark" alt="Ícones de HTML, CSS, JavaScript, C, Git, GitHub, VS Code, Windows e Linux" />
 
   <br/><br/>
 
@@ -61,6 +63,8 @@ Gosto de entender como as coisas funcionam, resolver problemas com raciocínio l
   <img src="https://img.shields.io/badge/C-L%C3%B3gica%20de%20programa%C3%A7%C3%A3o-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="Linguagem C" />
   <img src="https://img.shields.io/badge/JavaScript-Projetos-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Versionamento-181717?style=flat-square&logo=github&logoColor=white" alt="Git e GitHub" />
+  <img src="https://img.shields.io/badge/Desenvolvimento-Web-E5533D?style=flat-square&logo=googlechrome&logoColor=white" alt="Desenvolvimento web" />
+  <img src="https://img.shields.io/badge/Infraestrutura-TI-2F81F7?style=flat-square&logo=windows&logoColor=white" alt="Infraestrutura de TI" />
 
 </div>
 
