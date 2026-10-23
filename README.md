@@ -5,11 +5,12 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=E5533D&center=true&vCenter=true&width=760&lines=Ol%C3%A1%2C+eu+sou+Erick+%F0%9F%91%8B;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Construindo+projetos+e+evoluindo+na+tecnologia" alt="Animação de digitação: apresentação do Erick" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=E5533D&center=true&vCenter=true&width=760&lines=Ol%C3%A1%2C+eu+sou+Erick+%F0%9F%91%8B;T%C3%A9cnico+em+TI+N%C3%ADvel+2;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o" alt="Animação de digitação: apresentação do Erick" />
 
   <p>
     <a href="https://github.com/kingErick12"><img src="https://img.shields.io/badge/GitHub-kingErick12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://github.com/kingErick12?tab=repositories"><img src="https://img.shields.io/badge/Projetos-Ver%20reposit%C3%B3rios-E5533D?style=for-the-badge&logo=github" alt="Meus repositórios" /></a>
+    <img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-TI%20N%C3%ADvel%202-2F81F7?style=for-the-badge&logo=windows&logoColor=white" alt="Técnico em TI Nível 2" />
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" alt="" />
@@ -18,14 +19,15 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Engenharia da Computação na UNIALFA**, atualmente no **3º período**, e estou desenvolvendo minha base em programação e desenvolvimento de software por meio de estudos e projetos práticos.
+Sou **Técnico em TI Nível 2** e estudante de **Engenharia da Computação na UNIALFA**, atualmente no **5º período**. Combino minha experiência profissional em tecnologia da informação com estudos acadêmicos e projetos práticos para continuar evoluindo na área.
 
 Gosto de entender como as coisas funcionam, resolver problemas com raciocínio lógico e transformar ideias em soluções úteis. Tenho interesse em aprofundar meus conhecimentos em **desenvolvimento de software, automação e cibersegurança**.
 
-- 🎓 **Formação:** Engenharia da Computação — UNIALFA.
-- 🛠️ **Aprendizado prático:** projetos web e sistemas para negócios.
-- 🧠 **Foco:** lógica de programação, resolução de problemas e evolução contínua.
-- 🎯 **Objetivo:** conquistar uma oportunidade de estágio em tecnologia e crescer como profissional.
+- 💼 **Atuação profissional:** Técnico em TI — Nível 2.
+- 🎓 **Formação:** Engenharia da Computação — UNIALFA, 5º período.
+- 🛠️ **Prática:** projetos web e sistemas para negócios.
+- 🧠 **Interesses:** suporte e infraestrutura de TI, desenvolvimento de software, automação e cibersegurança.
+- 🎯 **Objetivo:** ampliar minhas competências técnicas e construir soluções tecnológicas confiáveis.
 
 ## 🧩 Projetos em destaque
 
